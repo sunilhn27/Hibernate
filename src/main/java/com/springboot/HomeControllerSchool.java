@@ -1,4 +1,4 @@
-package com.boraji.tutorial.springboot;
+package com.springboot;
 
 import javax.validation.Valid;
 
